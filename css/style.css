@@ -1,0 +1,35 @@
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+p {
+  width: 700px;
+  margin: 0 auto;
+  font-weight: 200;
+  line-height: 1.5;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  font-weight: 200;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  font-weight: 200;
+}
